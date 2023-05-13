@@ -1,6 +1,5 @@
+**/.DS_Store
 **/.idea
 **/*.pages
 **/*.pdf
 **/cmake-build-debug
-
-.DS_Store
